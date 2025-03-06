@@ -1,0 +1,5 @@
+C:\Users\TAAFELO1\Documents\Dotnet\Hangman\obj\Debug\netcoreapp2.2\Spaceman.csproj.AssemblyReference.cache
+C:\Users\TAAFELO1\Documents\Dotnet\Hangman\obj\Debug\netcoreapp2.2\Spaceman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAAFELO1\Documents\Dotnet\Hangman\obj\Debug\netcoreapp2.2\Spaceman.AssemblyInfoInputs.cache
+C:\Users\TAAFELO1\Documents\Dotnet\Hangman\obj\Debug\netcoreapp2.2\Spaceman.AssemblyInfo.cs
+C:\Users\TAAFELO1\Documents\Dotnet\Hangman\obj\Debug\netcoreapp2.2\Spaceman.csproj.CoreCompileInputs.cache

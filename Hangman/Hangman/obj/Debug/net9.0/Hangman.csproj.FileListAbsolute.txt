@@ -1,0 +1,14 @@
+C:\Users\TAAFELO1\Documents\Dotnet\Hangman\Hangman\Hangman\bin\Debug\net9.0\Hangman.exe
+C:\Users\TAAFELO1\Documents\Dotnet\Hangman\Hangman\Hangman\bin\Debug\net9.0\Hangman.deps.json
+C:\Users\TAAFELO1\Documents\Dotnet\Hangman\Hangman\Hangman\bin\Debug\net9.0\Hangman.runtimeconfig.json
+C:\Users\TAAFELO1\Documents\Dotnet\Hangman\Hangman\Hangman\bin\Debug\net9.0\Hangman.dll
+C:\Users\TAAFELO1\Documents\Dotnet\Hangman\Hangman\Hangman\bin\Debug\net9.0\Hangman.pdb
+C:\Users\TAAFELO1\Documents\Dotnet\Hangman\Hangman\Hangman\obj\Debug\net9.0\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAAFELO1\Documents\Dotnet\Hangman\Hangman\Hangman\obj\Debug\net9.0\Hangman.AssemblyInfoInputs.cache
+C:\Users\TAAFELO1\Documents\Dotnet\Hangman\Hangman\Hangman\obj\Debug\net9.0\Hangman.AssemblyInfo.cs
+C:\Users\TAAFELO1\Documents\Dotnet\Hangman\Hangman\Hangman\obj\Debug\net9.0\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\TAAFELO1\Documents\Dotnet\Hangman\Hangman\Hangman\obj\Debug\net9.0\Hangman.dll
+C:\Users\TAAFELO1\Documents\Dotnet\Hangman\Hangman\Hangman\obj\Debug\net9.0\refint\Hangman.dll
+C:\Users\TAAFELO1\Documents\Dotnet\Hangman\Hangman\Hangman\obj\Debug\net9.0\Hangman.pdb
+C:\Users\TAAFELO1\Documents\Dotnet\Hangman\Hangman\Hangman\obj\Debug\net9.0\Hangman.genruntimeconfig.cache
+C:\Users\TAAFELO1\Documents\Dotnet\Hangman\Hangman\Hangman\obj\Debug\net9.0\ref\Hangman.dll
